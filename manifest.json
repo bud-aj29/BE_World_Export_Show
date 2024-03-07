@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Show the world export button always",
+        "name": "World_Export_Show_v0.0.1",
+        "uuid": "b9519e44-efce-4980-91bd-fade603640e0",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 10 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "4f776e50-58a4-4d8d-8ddd-50948af02ecf",
+            "version": [0, 0, 1]
+        }
+    ]
+}
